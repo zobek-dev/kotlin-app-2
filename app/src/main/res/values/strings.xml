@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">alejandra_alvarez _20241120_herpm</string>
+    <string name="driver_photo">Foto del conductor</string>
+    <string name="captured_photo">Foto capturada</string>
+</resources>
